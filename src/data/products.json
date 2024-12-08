@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone X",
+      "price": 999.99,
+      "description": "Latest smartphone with amazing features",
+      "image": "https://placehold.co/300x200",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Laptop Pro",
+      "price": 1499.99,
+      "description": "Powerful laptop for professionals",
+      "image": "https://placehold.co/300x200",
+      "category": "Electronics"
+    },
+    {
+      "id": 3,
+      "name": "Wireless Earbuds",
+      "price": 199.99,
+      "description": "High-quality wireless earbuds",
+      "image": "https://placehold.co/300x200",
+      "category": "Electronics"
+    }
+  ]
+}
